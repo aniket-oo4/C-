@@ -1,0 +1,8 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\bin\Debug\EventEx.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\bin\Debug\EventEx.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\bin\Debug\EventEx.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\bin\Debug\ClassLibrary1.dll
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\obj\Debug\EventEx.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\obj\Debug\EventEx.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\EventEx\EventEx\obj\Debug\EventEx.pdb

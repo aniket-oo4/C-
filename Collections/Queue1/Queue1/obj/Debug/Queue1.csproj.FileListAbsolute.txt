@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\bin\Debug\Queue1.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\bin\Debug\Queue1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\bin\Debug\Queue1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\obj\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\obj\Debug\Queue1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Queue1\Queue1\obj\Debug\Queue1.pdb

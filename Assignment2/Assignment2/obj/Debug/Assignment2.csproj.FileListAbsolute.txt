@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

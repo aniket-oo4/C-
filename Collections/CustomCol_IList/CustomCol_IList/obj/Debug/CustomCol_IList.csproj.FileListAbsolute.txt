@@ -1,0 +1,5 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomCol_IList\CustomCol_IList\bin\Debug\CustomCol_IList.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomCol_IList\CustomCol_IList\bin\Debug\CustomCol_IList.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomCol_IList\CustomCol_IList\bin\Debug\CustomCol_IList.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomCol_IList\CustomCol_IList\obj\Debug\CustomCol_IList.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomCol_IList\CustomCol_IList\obj\Debug\CustomCol_IList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\bin\Debug\ObjectRelationOone_to_One.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\bin\Debug\ObjectRelationOone_to_One.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\bin\Debug\ObjectRelationOone_to_One.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\obj\Debug\ObjectRelationOone_to_One.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\obj\Debug\ObjectRelationOone_to_One.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\ObjectRelationOone_to_One\ObjectRelationOone_to_One\obj\Debug\ObjectRelationOone_to_One.pdb

@@ -1,0 +1,9 @@
+okException On :04-07-2024 12:54:16
+ExceptionLog.InsufficientBalanceException
+
+ StackTrace ::
+   at ExceptionLog.FundTransfer.Transfer(BankAccount sourceAc, BankAccount DestinationAc, Double Amount) in c:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\Program.cs:line 45
+   at ExceptionLog.Program.Main(String[] args) in c:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\Program.cs:line 109
+
+ Message::
+Your  transfer amount is greater than current account balance

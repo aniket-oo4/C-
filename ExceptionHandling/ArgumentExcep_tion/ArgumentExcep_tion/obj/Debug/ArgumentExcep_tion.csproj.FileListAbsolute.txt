@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\bin\Debug\ArgumentExcep_tion.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\bin\Debug\ArgumentExcep_tion.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\bin\Debug\ArgumentExcep_tion.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\obj\Debug\ArgumentExcep_tion.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\obj\Debug\ArgumentExcep_tion.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ArgumentExcep_tion\ArgumentExcep_tion\obj\Debug\ArgumentExcep_tion.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\bin\Debug\Select_.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\bin\Debug\Select_.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\bin\Debug\Select_.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\obj\Debug\Select_.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\obj\Debug\Select_.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\Select_\Select_\obj\Debug\Select_.pdb

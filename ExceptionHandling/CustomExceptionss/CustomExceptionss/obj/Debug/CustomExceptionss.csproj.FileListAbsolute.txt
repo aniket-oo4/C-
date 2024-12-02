@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\bin\Debug\CustomExceptionss.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\obj\Debug\CustomExceptionss.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\bin\Debug\CustomExceptionss.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\bin\Debug\CustomExceptionss.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\obj\Debug\CustomExceptionss.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\CustomExceptionss\CustomExceptionss\obj\Debug\CustomExceptionss.pdb

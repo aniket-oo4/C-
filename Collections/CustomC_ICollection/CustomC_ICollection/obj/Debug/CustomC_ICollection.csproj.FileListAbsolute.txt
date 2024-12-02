@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\bin\Debug\CustomC_ICollection.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\obj\Debug\CustomC_ICollection.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\bin\Debug\CustomC_ICollection.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\bin\Debug\CustomC_ICollection.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\obj\Debug\CustomC_ICollection.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\CustomC_ICollection\CustomC_ICollection\obj\Debug\CustomC_ICollection.pdb

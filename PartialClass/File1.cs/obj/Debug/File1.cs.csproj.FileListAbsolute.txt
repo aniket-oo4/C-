@@ -1,0 +1,5 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\PartialClass\File1.cs\bin\Debug\File1.cs.dll
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\PartialClass\File1.cs\bin\Debug\File1.cs.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\PartialClass\File1.cs\obj\Debug\File1.cs.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\PartialClass\File1.cs\obj\Debug\File1.cs.dll
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\PartialClass\File1.cs\obj\Debug\File1.cs.pdb

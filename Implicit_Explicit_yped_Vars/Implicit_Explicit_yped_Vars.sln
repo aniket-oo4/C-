@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implicit_Explicit_yped_Vars", "Implicit_Explicit_yped_Vars\Implicit_Explicit_yped_Vars.csproj", "{8906B28A-8AF9-4C39-9A43-35FB6E1A7636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8906B28A-8AF9-4C39-9A43-35FB6E1A7636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8906B28A-8AF9-4C39-9A43-35FB6E1A7636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8906B28A-8AF9-4C39-9A43-35FB6E1A7636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8906B28A-8AF9-4C39-9A43-35FB6E1A7636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

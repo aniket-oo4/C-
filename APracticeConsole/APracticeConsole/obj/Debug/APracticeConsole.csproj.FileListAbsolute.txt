@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\bin\Debug\APracticeConsole.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\obj\Debug\APracticeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\bin\Debug\APracticeConsole.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\bin\Debug\APracticeConsole.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\obj\Debug\APracticeConsole.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\APracticeConsole\APracticeConsole\obj\Debug\APracticeConsole.pdb

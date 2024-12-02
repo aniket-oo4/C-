@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\bin\Debug\Genrics.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\obj\Debug\Genrics.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\bin\Debug\Genrics.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\bin\Debug\Genrics.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\obj\Debug\Genrics.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Genrics\Genrics\obj\Debug\Genrics.pdb
+C:\Users\Aniket.Varkhade\Desktop\aniket\1C# udemy\Genrics\Genrics\bin\Debug\Genrics.exe.config
+C:\Users\Aniket.Varkhade\Desktop\aniket\1C# udemy\Genrics\Genrics\obj\Debug\Genrics.exe
+C:\Users\Aniket.Varkhade\Desktop\aniket\1C# udemy\Genrics\Genrics\obj\Debug\Genrics.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\bin\Debug\ExceptionFilter_CatWhen.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\bin\Debug\ExceptionFilter_CatWhen.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\bin\Debug\ExceptionFilter_CatWhen.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\obj\Debug\ExceptionFilter_CatWhen.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\obj\Debug\ExceptionFilter_CatWhen.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionFilter_CatWhen\ExceptionFilter_CatWhen\obj\Debug\ExceptionFilter_CatWhen.pdb

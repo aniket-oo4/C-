@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\bin\Debug\LinqBasics1.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\obj\Debug\LinqBasics1.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\bin\Debug\LinqBasics1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\bin\Debug\LinqBasics1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\obj\Debug\LinqBasics1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Linq\LinqBasics1\LinqBasics1\obj\Debug\LinqBasics1.pdb

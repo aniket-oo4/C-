@@ -1,0 +1,5 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Custom_Col_IEquatable\Custom_Col_IEquatable\bin\Debug\Custom_Col_IEquatable.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Custom_Col_IEquatable\Custom_Col_IEquatable\bin\Debug\Custom_Col_IEquatable.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Custom_Col_IEquatable\Custom_Col_IEquatable\bin\Debug\Custom_Col_IEquatable.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Custom_Col_IEquatable\Custom_Col_IEquatable\obj\Debug\Custom_Col_IEquatable.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Custom_Col_IEquatable\Custom_Col_IEquatable\obj\Debug\Custom_Col_IEquatable.pdb

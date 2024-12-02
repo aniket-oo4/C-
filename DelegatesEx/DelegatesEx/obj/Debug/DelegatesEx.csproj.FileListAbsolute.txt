@@ -1,0 +1,8 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\bin\Debug\DelegatesEx.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\bin\Debug\DelegatesEx.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\bin\Debug\DelegatesEx.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\bin\Debug\ClassLibrary1.dll
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\obj\Debug\DelegatesEx.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\obj\Debug\DelegatesEx.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\DelegatesEx\DelegatesEx\obj\Debug\DelegatesEx.pdb

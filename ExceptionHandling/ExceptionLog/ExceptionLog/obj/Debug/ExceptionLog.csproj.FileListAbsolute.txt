@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\bin\Debug\ExceptionLog.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\bin\Debug\ExceptionLog.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\bin\Debug\ExceptionLog.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\obj\Debug\ExceptionLog.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\obj\Debug\ExceptionLog.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\ExceptionHandling\ExceptionLog\ExceptionLog\obj\Debug\ExceptionLog.pdb

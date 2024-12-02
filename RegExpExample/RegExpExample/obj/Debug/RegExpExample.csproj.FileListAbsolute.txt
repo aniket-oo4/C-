@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\bin\Debug\RegExpExample.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\bin\Debug\RegExpExample.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\obj\Debug\RegExpExample.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\obj\Debug\RegExpExample.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\RegExpExample\RegExpExample\obj\Debug\RegExpExample.pdb

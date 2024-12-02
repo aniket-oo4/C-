@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\bin\Debug\Tuples1.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\bin\Debug\Tuples1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\bin\Debug\Tuples1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\obj\Debug\Tuples1.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\obj\Debug\Tuples1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Tuples1\Tuples1\obj\Debug\Tuples1.pdb

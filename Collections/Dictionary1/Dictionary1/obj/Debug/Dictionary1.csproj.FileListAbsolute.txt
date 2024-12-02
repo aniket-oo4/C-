@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\bin\Debug\Dictionary1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\bin\Debug\Dictionary1.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\obj\Debug\Dictionary1.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\obj\Debug\Dictionary1.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\Collections\Dictionary1\Dictionary1\obj\Debug\Dictionary1.pdb

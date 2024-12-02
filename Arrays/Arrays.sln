@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{001056C7-ACA5-4AAD-98D9-1CCBE07D57FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{6BE4B260-759E-454D-A950-5CD1DB0103C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001056C7-ACA5-4AAD-98D9-1CCBE07D57FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001056C7-ACA5-4AAD-98D9-1CCBE07D57FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001056C7-ACA5-4AAD-98D9-1CCBE07D57FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001056C7-ACA5-4AAD-98D9-1CCBE07D57FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE4B260-759E-454D-A950-5CD1DB0103C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE4B260-759E-454D-A950-5CD1DB0103C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE4B260-759E-454D-A950-5CD1DB0103C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE4B260-759E-454D-A950-5CD1DB0103C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

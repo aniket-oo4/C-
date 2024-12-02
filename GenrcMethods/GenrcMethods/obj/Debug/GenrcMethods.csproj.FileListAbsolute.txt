@@ -1,0 +1,6 @@
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\bin\Debug\GenrcMethods.exe.config
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\obj\Debug\GenrcMethods.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\bin\Debug\GenrcMethods.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\bin\Debug\GenrcMethods.pdb
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\obj\Debug\GenrcMethods.exe
+C:\Users\Aniket.Varkhade\Documents\Visual Studio 2012\Projects\Practice\udemy\GenrcMethods\GenrcMethods\obj\Debug\GenrcMethods.pdb
