@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\LinqBasics1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3015F0DE-00DB-47F3-9B7A-D71D6C549B91}|..\\First_FirstOrDefault\\First_FirstOrDefault\\First_FirstOrDefault.csproj|d:\\aniket-2\\udemy_c#\\csharp\\linq\\first_firstordefault\\first_firstordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9588E0E8-4F66-4F45-B352-2445FC66E5A8}|..\\Last_LastOrDefault\\Last_LastOrDefault\\Last_LastOrDefault.csproj|d:\\aniket-2\\udemy_c#\\csharp\\linq\\last_lastordefault\\last_lastordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\Last_LastOrDefault\\Last_LastOrDefault\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Last_LastOrDefault\\Last_LastOrDefault\\Program.cs",
+              "ToolTip": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\Last_LastOrDefault\\Last_LastOrDefault\\Program.cs",
+              "RelativeToolTip": "..\\Last_LastOrDefault\\Last_LastOrDefault\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:40:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\First_FirstOrDefault\\First_FirstOrDefault\\Program.cs",
+              "RelativeDocumentMoniker": "..\\First_FirstOrDefault\\First_FirstOrDefault\\Program.cs",
+              "ToolTip": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\First_FirstOrDefault\\First_FirstOrDefault\\Program.cs",
+              "RelativeToolTip": "..\\First_FirstOrDefault\\First_FirstOrDefault\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:29:29.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

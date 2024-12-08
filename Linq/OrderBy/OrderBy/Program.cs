@@ -20,6 +20,7 @@ namespace OrderBy
     {
         static void Main(string[] args)
         {
+ 
 
             List<Employee> employees = new List<Employee>()  // its a data source it can be any type database xml arraylist anything incollection
             {
@@ -34,7 +35,7 @@ namespace OrderBy
             // using LinqQuery 
           //  var result = employees.OrderBy(emp => emp.Salary);// order by Employee salary 
 
-            // ThenBy is used when there is same data is compared thn we need to provid option property to comparre in such case  we use ThenBy with Order by
+            // ThenBy is used when there is same data is compared thn we need to provide option property to comparre in such case  we use ThenBy with Order by
          //   IOrderedEnumerable<Employee> result = employees.OrderBy(emp => emp.Salary).ThenBy(emp=>emp.EmpId); 
 
             // using OrderByDescending()

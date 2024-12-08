@@ -20,7 +20,7 @@ namespace LinqBasics1
         static void Main(string[] args)
         {
 
-            List<Employee> employees = new List<Employee>()  // its a data source it can be any type database xml arraylist anything incollection
+            List<Employee> employees = new List<Employee>()  // its a data source it can be any type database ,xml arraylist anything incollection
             {
                 new Employee(){EmpName="aniket",EmpId=1,City="pune",Job="SE"},
                 new Employee(){EmpName="tejas",EmpId=2,City="nasik",Job="SE"},

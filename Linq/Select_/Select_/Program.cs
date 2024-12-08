@@ -44,6 +44,10 @@ namespace Select_
        //     IEnumerable<RegisteredEmployee> result = employees.Select(emp => new RegisteredEmployee() {EmpName=emp.EmpName,EmpId=emp.EmpId,Salary=emp.Salary }
        //         ).ToList();
   // or 
+  // Select Will Iterate through all the elements in current  DAtasource  and perform some operation on it  and return modified value or as it is also it return IEnumerable<T> where T is nothing but the return typr of lambda function
+  // datasource.Select(parameter=> someOperation Or direct constant value also 10.22);
+  // Syntax :-->
+    // Select ( Funct<TSource ,TResult> Selector ) ; in place of TSource the the selected element type is substitued  in our case there is Employee  and in place of TResult substitued the return value which is selector is going to return 
             List<RegisteredEmployee> result = employees.Select(emp => new RegisteredEmployee() { EmpName = emp.EmpName, EmpId = emp.EmpId, Salary = emp.Salary }
        ).OrderBy(n => n.EmpId).ToList();
 

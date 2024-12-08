@@ -16,7 +16,7 @@ namespace Joins
 
     }
 
-    class Departmet
+    class Department
     {
         public string DptName { get; set; }
         public int DparmenttId { get; set; }
@@ -38,12 +38,12 @@ namespace Joins
             };
 
             // performing Join a
-           List< Departmet> depatments=new List<Departmet>()
+           List< Department> depatments=new List<Department>()
             {
-                new Departmet(){ DptName="Development",DparmenttId=1},
-                new Departmet(){ DptName="engineer",DparmenttId=2},
-                new Departmet(){ DptName="implementation",DparmenttId=30},
-                new Departmet(){ DptName="Support",DparmenttId=40},
+                new Department(){ DptName="Development",DparmenttId=1},
+                new Department(){ DptName="engineer",DparmenttId=2},
+                new Department(){ DptName="implementation",DparmenttId=30},
+                new Department(){ DptName="Support",DparmenttId=40},
             };
            var result = employees.Join(depatments,
                emp => emp.DptId, dpt => dpt.DparmenttId,

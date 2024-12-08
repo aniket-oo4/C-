@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\LinqBasics1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF76190-46CD-4635-B10C-065AC1692682}|..\\Joins\\Joins\\Joins.csproj|d:\\aniket-2\\udemy_c#\\csharp\\linq\\joins\\joins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\Joins\\Joins\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Joins\\Joins\\Program.cs",
+              "ToolTip": "D:\\aniket-2\\Udemy_C#\\CSharp\\Linq\\Joins\\Joins\\Program.cs",
+              "RelativeToolTip": "..\\Joins\\Joins\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:51:33.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
